@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on ... MINISTERIO DE TRANSPORTE
+- 🌱 I’m currently learning ... GIT
+
+
 <!--
 **PequeLulu/PequeLulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
