@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/maria-julieta-luiso/">
-    <img src="https://img.shields.io/badge/-spencer-blue?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=585858&color=c02000">
+    <img src="https://img.shields.io/badge/-lulu-blue?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=585858&color=c02000">
   </a>
 
 
