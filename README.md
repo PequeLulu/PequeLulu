@@ -1,15 +1,8 @@
 <p align="left">
-  <a href="https://twitter.com/zeroSteiner">
-    <img src="https://img.shields.io/twitter/follow/zeroSteiner?style=for-the-badge&label=%40zeroSteiner&logo=twitter&logoColor=white&labelColor=585858&color=c02000">
-  </a>
-
-  <a href="https://www.linkedin.com/in/spencer-mcintyre-b48987194/">
+  <a href="https://www.linkedin.com/in/maria-julieta-luiso/">
     <img src="https://img.shields.io/badge/-spencer-blue?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=585858&color=c02000">
   </a>
 
-  <a href="https://keybase.io/zeroSteiner">
-    <img src="https://img.shields.io/keybase/pgp/zeroSteiner?style=for-the-badge&logoColor=white&labelColor=585858&color=c02000">
-  </a>
 
 </p>
 
@@ -17,14 +10,7 @@
 
 <a href="https://github.com/rapid7/metasploit-framework/search?q=Spencer+McIntyre">
   <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Feathfdjqlf.execute-api.us-east-2.amazonaws.com%2Ftest%2Fv1%2Fmodules%3Fauthor%3DSpencer%2520McIntyre%26type%3D%2Dpayload&color=c02000">
-</a>
-
-
-
-
-
-
-### Hi there 👋
+</a>### Hi there 👋
 
 
 - 🔭 I’m currently working on ... MINISTERIO DE TRANSPORTE
